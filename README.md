@@ -1,7 +1,12 @@
 ## A Memory Model based on the Siamese Network for Long-term Tracking (MMLT)
 
-
 :trophy: **the 3rd prize winner of the VOT2018 long-term challenge**
+
+### Introduction
+
+This is the research paper for the ECCV workshop 2018 paper:
+
+Hankyeol Lee*, [Seokeon choi*](https://sites.google.com/site/seokeonchoi), and Changick Kim, " A Memory Model based on the Siamese Network for Long-term Tracking", ECCV workshop 2018.
 
 - - - -
 
@@ -49,3 +54,5 @@ If you get an error "gpuarray", check the readme file.
 If you get an error "out of memory" on the GPU, increase p.gpu_memory_resize_add in setting_parameters.m file
 
 - - - -
+
+
