@@ -72,5 +72,5 @@ If you have any questions, please feel free to contact seokeon@kaist.ac.kr
 ----------
 ### Acknowledgments
 
-Many parts of this code are adopted from the related work ([SiameseFC](https://github.com/bertinetto/siamese-fc))
+Many parts of this code are adopted from [SiameseFC](https://github.com/bertinetto/siamese-fc)
 
