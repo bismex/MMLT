@@ -5,6 +5,7 @@ This instructions are for Win10.
 Pre-requisites : GPU (CPU is also available, but slow), CUDA (we used 8.0), cuDNN (we used 7.1), MATLAB (we used 2017a), MatConvNet (we used 1.0-beta25)
  
 1. Setting MatConvNet
+
 1.1. Download the MatConvNet and cuDNN in the "matconvnet" folder (http://www.vlfeat.org/matconvnet/)
 1.2. If you already have the MatConvNet, move it to these folders or change the direction at the "setup_paths.m" file.
  
