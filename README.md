@@ -3,7 +3,7 @@
 :trophy: **the 3rd prize winner of the VOT2018 long-term challenge**
 
 
-<img src='./votresult.png' width='800'>
+<img src='./memory-model.png' width='800'>
 
 
 ----------
