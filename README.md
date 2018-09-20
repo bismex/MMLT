@@ -1,5 +1,8 @@
 ## A Memory Model based on the Siamese Network for Long-term Tracking (MMLT)
 
+
+:trophy:News: **the 3rd prize winner of the VOT2018 long-term challenge**
+
 - - - -
 
 
