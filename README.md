@@ -7,7 +7,6 @@
 
 ----------
 ### Introduction
-----------
 
 This is the research paper for the **ECCV workshop 2018** paper:
 
@@ -18,7 +17,6 @@ Hankyeol Lee*, [Seokeon choi*](https://sites.google.com/site/seokeonchoi), and C
 
 ----------
 ### Usage 
-----------
 
 This instructions are for Win10.
 
@@ -57,7 +55,7 @@ If you get an error "out of memory" on the GPU, increase p.gpu_memory_resize_add
 
 ----------
 ### Citation 
-----------
+
 It has not been published yet.
 
 
@@ -65,7 +63,7 @@ It has not been published yet.
 
 ----------
 ### Contact
-----------
+
 If you have any questions, please feel free to contact seokeon@kaist.ac.kr
 
 
@@ -73,6 +71,6 @@ If you have any questions, please feel free to contact seokeon@kaist.ac.kr
 
 ----------
 ### Acknowledgments
-----------
+
 Many parts of this code are adopted from the related work ([SiameseFC](https://github.com/bertinetto/siamese-fc))
 
