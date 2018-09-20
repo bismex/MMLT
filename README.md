@@ -6,7 +6,7 @@ Pre-requisites : GPU (CPU is also available, but slow), CUDA (we used 8.0), cuDN
  
 1. Setting MatConvNet
 
-** Download the MatConvNet and cuDNN in the "matconvnet" folder (http://www.vlfeat.org/matconvnet/)
+* Download the MatConvNet and cuDNN in the "matconvnet" folder (http://www.vlfeat.org/matconvnet/)
 1.2. If you already have the MatConvNet, move it to these folders or change the direction at the "setup_paths.m" file.
  
 2. Install
