@@ -16,7 +16,7 @@ Hankyeol Lee*, [Seokeon choi*](https://sites.google.com/site/seokeonchoi), and C
 
 <img src='./img/memory-model.png' width='800'>
 
-<a href="https://www.youtube.com/watch?v=UgjQDWIGriw" target="_blank"><img src='./img/youtube.png' width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=UgjQDWIGriw" target="_blank"><img src='./img/youtube.png' width="800" /></a>
 
 
 ----------
