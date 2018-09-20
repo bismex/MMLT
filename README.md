@@ -2,9 +2,8 @@
 
 :trophy: **the 3rd prize winner of the VOT2018 long-term challenge**
 
-- - - 
-
 ### Introduction
+----------
 
 This is the research paper for the **ECCV workshop 2018** paper:
 
@@ -12,18 +11,12 @@ Hankyeol Lee*, [Seokeon choi*](https://sites.google.com/site/seokeonchoi), and C
 
 
 
-- - - -
-
 ### Usage 
-
-- - - -
-
+----------
 This instructions are for Win10.
 
 Pre-requisites : GPU (CPU is also available, but slow), CUDA (we used 8.0), cuDNN (we used 7.1), MATLAB (we used 2017a), MatConvNet (we used 1.0-beta25) 
 
-- - - -
- 
 1. Setting MatConvNet
 
 * Download the MatConvNet and cuDNN in the "matconvnet" folder (http://www.vlfeat.org/matconvnet/)
@@ -48,13 +41,10 @@ Pre-requisites : GPU (CPU is also available, but slow), CUDA (we used 8.0), cuDN
 * Run the m-file "run_test.m"
 * Run the m-file "run_experiments.m"
 
-- - - -
-
 If you get an error "gpuarray", check the readme file.
 
 If you get an error "out of memory" on the GPU, increase p.gpu_memory_resize_add in setting_parameters.m file
 
-- - - -
 
 ### Usage 
 ----------
