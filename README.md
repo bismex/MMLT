@@ -1,7 +1,8 @@
 ## A Memory Model based on the Siamese Network for Long-term Tracking (MMLT)
 - - - -
->This instructions are for Win10
->Pre-requisites : GPU (CPU is also available, but slow), CUDA (we used 8.0), cuDNN (we used 7.1), MATLAB (we used 2017a), MatConvNet (we used 1.0-beta25)
+> This instructions are for Win10
+
+> Pre-requisites : GPU (CPU is also available, but slow), CUDA (we used 8.0), cuDNN (we used 7.1), MATLAB (we used 2017a), MatConvNet (we used 1.0-beta25)
  
 1. Setting MatConvNet
 
