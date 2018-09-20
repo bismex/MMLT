@@ -14,7 +14,7 @@ Hankyeol Lee*, [Seokeon choi*](https://sites.google.com/site/seokeonchoi), and C
 
 - - - -
 
-## Instruction ##
+### Usage 
 
 - - - -
 
@@ -56,4 +56,11 @@ If you get an error "out of memory" on the GPU, increase p.gpu_memory_resize_add
 
 - - - -
 
+### Usage 
+
+### Contact
+
+If you have any questions, please feel free to contact [seokeon@kaist.ac.kr](seokeon@kaist.ac.kr)
+
+### Acknowledgments
 
