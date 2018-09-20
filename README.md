@@ -3,7 +3,6 @@
 :trophy: **the 3rd prize winner of the VOT2018 long-term challenge**
 
 
-<img src='./memory-model.png' width='800'>
 
 
 ----------
@@ -13,12 +12,12 @@ This is the research paper for the **ECCV workshop 2018** paper:
 
 Hankyeol Lee*, [Seokeon choi*](https://sites.google.com/site/seokeonchoi), and Changick Kim, "**A Memory Model based on the Siamese Network for Long-term Tracking**", in Proc. ECCV workshop 2018.  (* *These two authors contributed equally*)
 
-
+<img src='./memory-model.png' width='800'>
 
 ----------
 ### Abstract
 
-
+We propose a novel memory model using deep convolutional features for long-term tracking to handle the challenging issues, including visual deformation or target disappearance. Our memory model is separated into short- and long-term stores inspired by Atkinson-Shiffrin Memory Model (ASMM). In the tracking step, the bounding box of the target is estimated by the Siamese features obtained from both memory stores to accommodate changes in the visual appearance of the target. In the re-detection step, we take features only in the long-term store to alleviate the drift problem. At this time, we adopt a coarse-to-fine strategy to detect the target in the entire image without the dependency of the previous position. In the end, we employ Regional Maximum Activation of Convolutions (R-MAC) as key criteria. Our tracker achieves an F-score of 0.52 on the LTB35 dataset, which is 0.04 higher than the performance of the state-of-the-art algorithm.
 
 ----------
 ### Usage 
