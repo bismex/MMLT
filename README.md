@@ -46,12 +46,17 @@ If you get an error "gpuarray", check the readme file.
 If you get an error "out of memory" on the GPU, increase p.gpu_memory_resize_add in setting_parameters.m file
 
 
-### Usage 
+### Citation 
 ----------
+It has not been published yet.
+
 
 ### Contact
 ----------
 If you have any questions, please feel free to contact seokeon@kaist.ac.kr
 
+
 ### Acknowledgments
 ----------
+Many parts of this code are adopted from the related work ([SiameseFC](https://github.com/bertinetto/siamese-fc))
+
