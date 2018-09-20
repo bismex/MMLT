@@ -29,8 +29,9 @@ Pre-requisites : GPU (CPU is also available, but slow), CUDA (we used 8.0), cuDN
 
 - - - -
 
-* If you get an error "gpuarray", check the readme file.
-* If you get an error "out of memory" on the GPU, increase p.gpu_memory_resize_add in setting_parameters.m file.
+If you get an error "gpuarray", check the readme file.
+
+If you get an error "out of memory" on the GPU, increase p.gpu_memory_resize_add in setting_parameters.m file.
 
 
 
