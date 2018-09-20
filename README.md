@@ -3,15 +3,6 @@
 
 > This instructions are for Win10. 
 > Pre-requisites : GPU (CPU is also available, but slow), CUDA (we used 8.0), cuDNN (we used 7.1), MATLAB (we used 2017a), MatConvNet (we used 1.0-beta25) 
-
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
 - - - -
  
 1. Setting MatConvNet
@@ -21,10 +12,12 @@
  
 2. Install
 * Go to "/runfiles/" and run the m-file "install.m"
- ( The runfile automatically download the pretrained network (2016-08-17.net.mat) into the "pretrained" folder [http://www.robots.ox.ac.uk/~luca/siamese-fc.html] and
-    the pretrained network (imagenet-vgg-verydeep-19.mat) into the "pretrained" folder [http://www.vlfeat.org/matconvnet/pretrained/] )
-  ( The runfile also complie the matconvnet => GPU : vl_compilenn('enableGpu', true), CPU : vl_compilenn; )
-  ( If cudnn and cuda are not available in your PC, it will be not operated. So Please cheack http://www.vlfeat.org/matconvnet/install/ )
+
+( The runfile automatically download the pretrained network (2016-08-17.net.mat) into the "pretrained" folder [http://www.robots.ox.ac.uk/~luca/siamese-fc.html] and the pretrained network (imagenet-vgg-verydeep-19.mat) into the "pretrained" folder [http://www.vlfeat.org/matconvnet/pretrained/] )
+
+( The runfile also complie the matconvnet => GPU : vl_compilenn('enableGpu', true), CPU : vl_compilenn; )
+  
+( If cudnn and cuda are not available in your PC, it will be not operated. So Please cheack http://www.vlfeat.org/matconvnet/install/ )
  
 3. Demo (It is not required for VOT integration, but try it for convenience)
 * Go to "/runfiles/" and run the m-file "run_demo.m".
