@@ -9,7 +9,7 @@
 
 This is the research paper for the **ECCV workshop 2018** paper:
 
-Hankyeol Lee*, [Seokeon choi*](https://sites.google.com/site/seokeonchoi), and Changick Kim, "**A Memory Model based on the Siamese Network for Long-term Tracking**", in Proc. ECCV workshop 2018.  (* *These two authors contributed equally*)
+Hankyeol Lee*, [Seokeon choi*](https://sites.google.com/site/seokeonchoi), and Changick Kim, "**A Memory Model based on the Siamese Network for Long-term Tracking**", in Proc. ECCV workshop 2018.  (* *These two authors contributed equally*) [[paper](https://drive.google.com/open?id=1Pj9KwTzmKnvIdtjUqErgBxJuWyLMUH63)]
 
 <**Overall flowchart**>
 
@@ -65,8 +65,9 @@ If you get an error "out of memory" on the GPU, increase p.gpu_memory_resize_add
 ----------
 ### Citation 
 
-It has not been published yet.
+Please refer to the below paper.
 
+Lee, Hankyeol, Seokeon Choi, and Changick Kim. "A Memory Model Based on the Siamese Network for Long-Term Tracking." European Conference on Computer Vision. Springer, Cham, 2018.
 
 
 
