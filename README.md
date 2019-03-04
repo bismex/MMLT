@@ -9,7 +9,7 @@
 
 This is the research paper for the **ECCV workshop 2018** paper:
 
-Hankyeol Lee*, [Seokeon choi*](https://sites.google.com/site/seokeonchoi), and Changick Kim, "**A Memory Model based on the Siamese Network for Long-term Tracking**", in Proc. ECCV workshop 2018.  (* *These two authors contributed equally*) [[paper](https://drive.google.com/open?id=1Pj9KwTzmKnvIdtjUqErgBxJuWyLMUH63)]
+Hankyeol Lee*, [Seokeon choi*](https://sites.google.com/site/seokeonchoi), and Changick Kim, "**A Memory Model based on the Siamese Network for Long-term Tracking**", in Proc. ECCV workshop 2018.  (* *These two authors contributed equally*) [[paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Lee_A_Memory_Model_based_on_the_Siamese_Network_for_Long-term_ECCVW_2018_paper.pdf)]
 
 <**Overall flowchart**>
 
